@@ -2,15 +2,15 @@
     "id": "aiagenta2z/my-first-ai-coding-agent"
     "name": "My First AI Coding Agent",
     "description": "One Line Description of your App/Agent",
-    "content": "This AI Agent can do complicated programming work for humans",
+    "content": "This AI Agent can do complicated programming work for humans. Key Features: Feature 1, Feature 2, ....",
     "website": "https://www.my_first_agent.com",
-    "field": "AI AGENT",
-    "subfield": "Coding Agent",
+    "field": "AI AGENT (first level category)",
+    "subfield": "Coding Agent (second level category)",
     "content_tag_list": "coding,python",
     "github": "https://github.com/aiagenta2z/my-first-ai-coding-agent",
     "thumbnail_picture": "https://avatars.githubusercontent.com/u/242328252?s=200&v=4",
     "upload_image_files": "https://avatars.githubusercontent.com/u/242328252?s=200&v=4,https://avatars.githubusercontent.com/u/242328252?s=200&v=4",
-    "api": "https://www.my_first_agent.com/agent",
-    "sdk": "ChatGPT SDK",
+    "api": "Endpoint to post messages for router, https://www.my_first_agent.com/agent",
+    "sdk": "ChatGPT",
     "package": "python/node"
 }
