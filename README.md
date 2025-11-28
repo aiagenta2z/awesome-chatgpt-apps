@@ -1,7 +1,10 @@
 ## This Repo is A Collection of ChatGPT Apps Developped and Distributed Across Web | sub-collection of a large AI Agent App Index Project [AI Agent Marketplace Collection](https://github.com/aiagenta2z/ai-agent-marketplace) and Registry Tool [Agtm](https://github.com/aiagenta2z/agtm)
 
-**Note**: If You Interested in Contributing your AI Apps by ChatGPT SDKs, Please prepare a agent_meta.json file of your App Meta and list in order of A2Z, the file name shoule follow `{owner}_{appname}.json`, if there are still duplicates, just add {owner}_{appname}.json, but you still can distinguish in your "id" field. Then you can submit by pull request, via tool(which we will help you sync data) [Agtm](https://github.com/aiagenta2z/agtm). The contributing can follow format `[app name](link): ({owner}/{app})  {A line description} `
-
+**Note**: If You Interested in Contributing your AI Apps by ChatGPT SDKs to this repo, Please prepare a agent meta json file of your App Meta (name: `{owner}_{appname}.json`), and use the agtm to register.
+Also you can help list your app in order of A2Z order, if there are still duplicates, just add {owner}_{appname}_{index}.json, but you still can distinguish in your "id" field. 
+Pull Request then you can submit by pull request to the /meta folder: https://github.com/aiagenta2z/awesome-chatgpt-apps/tree/main/meta
+`agtm` Tool(which we will help you register data just like pypi,npm) [Agtm](https://github.com/aiagenta2z/agtm).
+README:  The contributing in the readme can follow format `[app name](link): ({owner}/{app})  {A line description} `
 
 ### ChatGPT Apps A2Z
 
@@ -10,9 +13,6 @@
 [Findexar](-): (nicholas-dickey/Findexar) Saas-In-A-Bottle for ChatGPT Apps and Agents  
 [Heron Health](-): (heron-health/heron-health) Patient Triage for low aquity Dermatology and other medical specialty care  
 [Memories Video Editor](-): (memories-video Editor/memories-video Editor) Empowering your favorite ChatGPT to craft family slideshows and tributes :clapper_board: Tools for preserving memories :dizzy:  
-
-
-
 
 
 
