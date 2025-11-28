@@ -20,9 +20,14 @@ You can submit by pull request to the /meta folder: https://github.com/aiagenta2
 `agtm` Tool 
 (which we will help you register data just like pypi,npm) [Agtm](https://github.com/aiagenta2z/agtm).   
 README:  The contributing in the readme can follow format `[app name](link): ({owner}/{app})  {A line description} `
-**[Registry Website]()
+
+**Registry Website**
+
+Visit [Website](https://deepnlp.org/workspace/my_ai_services)
 
 ### Resources
 [OpenAI Community Discussion](https://community.openai.com/t/show-us-what-you-re-building-with-the-chatgpt-apps-sdk/1365862/18)  
 [AI Agent A2Z Web](https://www.deepnlp.org/store/ai-agent)  
 [AI Agent App Registry Submission Web](https://www.deepnlp.org/workspace/my_ai_services)  
+[AI Agent Marketplace](https://github.com/aiagenta2z/ai-agent-marketplace)  
+
