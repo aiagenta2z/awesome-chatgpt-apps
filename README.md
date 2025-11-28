@@ -1,10 +1,6 @@
 ## This Repo is A Collection of ChatGPT Apps Developped and Distributed Across Web | sub-collection of a large AI Agent App Index Project [AI Agent Marketplace Collection](https://github.com/aiagenta2z/ai-agent-marketplace) and Registry Tool [Agtm](https://github.com/aiagenta2z/agtm)
 
-**Note**: If You Interested in Contributing your AI Apps by ChatGPT SDKs to this repo, Please prepare a agent meta json file of your App Meta (name: `{owner}_{appname}.json`), and use the agtm to register.
-Also you can help list your app in order of A2Z order, if there are still duplicates, just add {owner}_{appname}_{index}.json, but you still can distinguish in your "id" field. 
-Pull Request then you can submit by pull request to the /meta folder: https://github.com/aiagenta2z/awesome-chatgpt-apps/tree/main/meta
-`agtm` Tool(which we will help you register data just like pypi,npm) [Agtm](https://github.com/aiagenta2z/agtm).
-README:  The contributing in the readme can follow format `[app name](link): ({owner}/{app})  {A line description} `
+**Note**: If You Interested in contributing your AI Apps by ChatGPT SDKs to this repo, Please prepare a agent meta ·.json or .yaml file· of your App Meta (name: `{owner}_{appname}.json`) create PR, use `agtm` or website on aiagenta2z.com.  See Contributing for details.
 
 ### ChatGPT Apps A2Z
 
@@ -16,8 +12,17 @@ README:  The contributing in the readme can follow format `[app name](link): ({o
 
 
 
-### Resources
-[OpenAI Community Discussion](https://community.openai.com/t/show-us-what-you-re-building-with-the-chatgpt-apps-sdk/1365862/18)
-[AI Agent A2Z Web](https://www.deepnlp.org/store/ai-agent)
-[AI Agent App Registry Submission Web](https://www.deepnlp.org/workspace/my_ai_services)
+### Contributing
 
+**Pull Request**: 
+You can submit by pull request to the /meta folder: https://github.com/aiagenta2z/awesome-chatgpt-apps/tree/main/meta. Also you can help list your app in order of A2Z order, if there are still duplicates, just add {owner}_{appname}_{index}.json, but you still can distinguish in your "id" field. 
+
+`agtm` Tool 
+(which we will help you register data just like pypi,npm) [Agtm](https://github.com/aiagenta2z/agtm).   
+README:  The contributing in the readme can follow format `[app name](link): ({owner}/{app})  {A line description} `
+**[Registry Website]()
+
+### Resources
+[OpenAI Community Discussion](https://community.openai.com/t/show-us-what-you-re-building-with-the-chatgpt-apps-sdk/1365862/18)  
+[AI Agent A2Z Web](https://www.deepnlp.org/store/ai-agent)  
+[AI Agent App Registry Submission Web](https://www.deepnlp.org/workspace/my_ai_services)  
