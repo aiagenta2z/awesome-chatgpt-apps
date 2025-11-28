@@ -1,7 +1,6 @@
 ## This Repo is A Collection of ChatGPT Apps Developped and Distributed Across Web | Part of a Large General [AI Agent Marketplace Project](https://github.com/aiagenta2z) | Registry Tool [Agtm](https://github.com/aiagenta2z/agtm)
 
-### Note: If You Interested in Controbuting, Please Prepare a Json File of App Meta and list in order of A2Z
-
+**Note**: If You Interested in Contributing, Please prepare a agent.json file of App Meta and list in order of A2Z, the file name shoule be {owner}_{appname}.json, if there are still duplicates, just add owner}_{appname}.json, but you still still highlight in your "id" field.
 
 ### ChatGPT Apps A2Z
 
