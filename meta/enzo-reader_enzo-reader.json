@@ -1,0 +1,16 @@
+{
+    "id": "enzo-reader/enzo-reader",
+    "name": "Enzo Reader",
+    "description": "Brings your existing RSS and similar type feed subscriptions into ChatGPT. Read, triage or chat with the model about the specifics.",
+    "content": "Uses your subscription to services like Feedbin, et al to bring a complete feed reading experience into ChatGPT allowing you to have access to what you’ve been reading in your chats.",
+    "website": "-",
+    "field": "News & Content",
+    "subfield": "Feed Reader",
+    "content_tag_list": "rss,feedbin,content-reader,chat-with-model",
+    "github": "-",
+    "thumbnail_picture": "-",
+    "upload_image_files": "-",
+    "api": "Feedbin et al. services",
+    "sdk": "ChatGPT",
+    "package": "Ruby on Rails, PostgreSQL, React"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "nanjuan/sophtron",
+    "name": "Sophtron",
+    "description": "Connect to your financial or utility account directly in ChatGPT and bring in siloed financial data for personalized financial advice.",
+    "content": "Sophtron provides an in-chat widget for user to connect to over 40,000 banks, credit unions, cards, investment brokerages, loans, insurance, utilities directly in ChatGPT. Once a connection is completed, user can explicitly grant ChatGPT access to a selected account’s transactions information. With detailed transaction data ChatGPT can provide more personalized financial advice.",
+    "website": "mcp.sophtron.com/mcp",
+    "field": "Finance",
+    "subfield": "Fintech Integration",
+    "content_tag_list": "financial-data,utility-accounts,budgeting,fintech",
+    "github": "-",
+    "thumbnail_picture": "-",
+    "upload_image_files": "-",
+    "api": "Sophtron API",
+    "sdk": "ChatGPT",
+    "package": "Nodejs, Typescript, ExpressJS"
+}

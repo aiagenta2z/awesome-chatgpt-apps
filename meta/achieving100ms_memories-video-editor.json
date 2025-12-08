@@ -1,0 +1,16 @@
+{
+    "id": "achieving100ms/memories-video-editor",
+    "name": "Memories Video Editor",
+    "description": "Empowering your favorite ChatGPT to craft family slideshows and tributes :clapper_board: Tools for preserving memories :dizzy:",
+    "content": "The Memories Video Editor lets users (and their families) collaboratively create memorial and celebration videos - like tributes for a loved one - directly through ChatGPT. It provides a secure, high-fidelity way to upload and manage real family assets (photos, videos, audio clips), preserving their original quality. Family members can upload through short-lived, shareable links, and GPT can then analyze the media, help storyboard the narrative, and instruct our rendering engine to produce the final video.",
+    "website": "-",
+    "field": "Media & Entertainment",
+    "subfield": "Video Editor",
+    "content_tag_list": "video-editor,slideshows,tributes,multi-modal",
+    "github": "-",
+    "thumbnail_picture": "-",
+    "upload_image_files": "-",
+    "api": "Google Cloud Functions, Firestore",
+    "sdk": "ChatGPT",
+    "package": "Next.js, TypeScript"
+}

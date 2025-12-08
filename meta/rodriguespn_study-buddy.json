@@ -1,0 +1,16 @@
+{
+    "id": "rodriguespn/study-buddy",
+    "name": "Study Buddy",
+    "description": "Your personal language tutor that creates custom flashcards for learning Spanish, French, German, Italian, and Portuguese",
+    "content": "Travelers and language learners who want personalized vocabulary practice. Solves the friction of traditional language learning apps that force you into rigid, one-size-fits-all curricula—instead, you simply tell ChatGPT what you want to learn and get instant, contextual flashcards. Key features: Multi-language support, Adaptive difficulty levels, Topical organization, Interactive flip cards.",
+    "website": "study-buddy.alpic.live",
+    "field": "Education",
+    "subfield": "Language Learning",
+    "content_tag_list": "language-tutor,flashcards,vocabulary,adaptive-learning",
+    "github": "Rodriguespn/study-buddy-app",
+    "thumbnail_picture": "-",
+    "upload_image_files": "-",
+    "api": "-",
+    "sdk": "ChatGPT",
+    "package": "TypeScript, React, Supabase"
+}

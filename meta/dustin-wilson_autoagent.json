@@ -1,0 +1,16 @@
+{
+    "id": "dustin-wilson/autoagent",
+    "name": "AutoAgent",
+    "description": "A ChatGPT-powered automotive agent that searches real dealership inventory, compares vehicles, and automates lead workflows using MCP + Apps SDK.",
+    "content": "AutoAgent serves both auto dealership teams and everyday car shoppers, solving major pain points on both sides of the buying journey. For dealerships, AutoAgent unifies fragmented systems—inventory tools, CRM portals, OEM dashboards, spreadsheets, and website lead forms—into a single conversational interface inside ChatGPT.",
+    "website": "-",
+    "field": "Automotive",
+    "subfield": "Dealership Automation",
+    "content_tag_list": "automotive,dealership,inventory-search,crm,MCP",
+    "github": "-",
+    "thumbnail_picture": "-",
+    "upload_image_files": "-",
+    "api": "MarketCheck API",
+    "sdk": "ChatGPT",
+    "package": "Next.js 15, Node.js / TypeScript"
+}

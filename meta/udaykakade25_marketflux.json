@@ -1,0 +1,16 @@
+{
+    "id": "udaykakade25/marketflux",
+    "name": "MarketFlux",
+    "description": "Real-time stock & crypto prices, analysis, news, comparisons, and more.",
+    "content": "Instead of juggling across different tabs and dashboard, users can experience stock and crypto market with ChatGPT’s AI-powered capablities. Key features: Real-time prices & comprehensive analysis, Compare stock & crypto (Up to 5), Instant news & top headlines.",
+    "website": "marketflux.alpic.live",
+    "field": "Finance",
+    "subfield": "Market Data",
+    "content_tag_list": "stock-market,crypto,real-time-prices,analysis,news",
+    "github": "udaykakade25/marketflux",
+    "thumbnail_picture": "-",
+    "upload_image_files": "-",
+    "api": "-",
+    "sdk": "ChatGPT",
+    "package": "TypeScript, React"
+}

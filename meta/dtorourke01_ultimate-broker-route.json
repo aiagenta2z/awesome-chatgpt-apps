@@ -1,0 +1,16 @@
+{
+    "id": "dtorourke01/ultimate-broker-route",
+    "name": "Ultimate Broker Route (UBR)",
+    "description": "A mobile-first lead routing app that tracks door-to-door activity, route metrics, and follow-ups like a game scoreboard.",
+    "content": "UBR helps field agents plan multi-day routes, track “stop outcomes,” and reset daily activity for performance coaching. Built for insurance/Medicare/solar door-knockers and similar field sales roles. Key Features: Multi-select stop outcomes, Daily auto-reset, Archive & route status tracking, OCR-friendly structure for future upgrades.",
+    "website": "dropbox.com",
+    "field": "Sales & CRM",
+    "subfield": "Field Sales",
+    "content_tag_list": "sales,lead-routing,field-agents,mobile-first",
+    "github": "-",
+    "thumbnail_picture": "-",
+    "upload_image_files": "-",
+    "api": "-",
+    "sdk": "ChatGPT",
+    "package": "Pure HTML/CSS/JS (client-side only)"
+}

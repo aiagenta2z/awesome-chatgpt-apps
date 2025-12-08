@@ -1,0 +1,16 @@
+{
+    "id": "frederic-barthelet/times-up",
+    "name": "Time’s Up",
+    "description": "Draw a card, give clues, make ChatGPT guess your word",
+    "content": "Anyone who wants to play word-guessing games with ChatGPT. Solves the fundamental problem of vanilla ChatGPT: without actual cards, there’s nothing stopping either player from changing their word mid-game or claiming they had a different one all along.",
+    "website": "times-up.alpic.live",
+    "field": "Gaming",
+    "subfield": "Word Games",
+    "content_tag_list": "word-guessing,asymmetric-game,hidden-information",
+    "github": "fredericbarthelet/advent-chatgpt-app",
+    "thumbnail_picture": "-",
+    "upload_image_files": "-",
+    "api": "-",
+    "sdk": "ChatGPT",
+    "package": "Typescript, React"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "harijoe/interactive-piano",
+    "name": "Interactive Piano",
+    "description": "Play, record, save, and replay melodies — a full mini-studio inside ChatGPT.",
+    "content": "Whether you’re practicing music, sketching melody ideas, or just having fun, this app turns ChatGPT into a creative, interactive instrument. Key features: Play notes using your keyboard or on-screen keys, Record performances with precise timing, Save and replay your songs.",
+    "website": "piano.alpic.live",
+    "field": "Music",
+    "subfield": "Virtual Instrument",
+    "content_tag_list": "piano,music,recording,melody,interactive-instrument",
+    "github": "harijoe/harijoe-piano-mcp",
+    "thumbnail_picture": "-",
+    "upload_image_files": "-",
+    "api": "-",
+    "sdk": "ChatGPT",
+    "package": "React"
+}

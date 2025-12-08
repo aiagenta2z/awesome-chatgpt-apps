@@ -1,0 +1,16 @@
+{
+    "id": "alpic-ai/murder-in-the-valley",
+    "name": "Murder In the Valley!",
+    "description": "Interrogate chatGPT as it impersonates the different suspect in a murder case.",
+    "content": "If you like detective games, this one leverages the power of chatGPT conversational power to makes for a very fun (and sometimes hilarious) experience. Key features: A UI to navigate between the different screens of the game, Leveraging chatGPT to impersonate the suspects and slip out clues after the right questions.",
+    "website": "murder-in-the-valley.alpic.live/mcp",
+    "field": "Gaming",
+    "subfield": "Detective/Mystery",
+    "content_tag_list": "detective-game,murder-mystery,interrogation,role-play",
+    "github": "alpic-ai/murder-in-the-valley",
+    "thumbnail_picture": "-",
+    "upload_image_files": "-",
+    "api": "-",
+    "sdk": "ChatGPT",
+    "package": "Typescript, React"
+}

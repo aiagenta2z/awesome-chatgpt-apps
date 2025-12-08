@@ -1,0 +1,16 @@
+{
+    "id": "nicholas-dickey/findexar",
+    "name": "Findexar",
+    "description": "Saas-In-A-Bottle for ChatGPT Apps and Agents",
+    "content": "Provides full SaaS functionality, the business operations layer for your App or Agent. Key features: Creator SaaS platform, Bring your own stripe, Define subscription plans for your app, Findexar wraps your tools with SaaS layer, guard rails, billing, subscription management widgets. Observability Revenue and Usage dashboards. User Sign-up/Login. User Subscription Upgrade/Management widget right inside ChatGPT.",
+    "website": "findexar",
+    "field": "Developer Tools",
+    "subfield": "SaaS Platform",
+    "content_tag_list": "saas,no-code,billing,subscriptions,developer-platform,MCP",
+    "github": "-",
+    "thumbnail_picture": "-",
+    "upload_image_files": "-",
+    "api": "Stripe",
+    "sdk": "ChatGPT",
+    "package": "Next.JS, Vercel, Neon, Redis"
+}

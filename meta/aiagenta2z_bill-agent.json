@@ -1,0 +1,16 @@
+{
+    "id": "aiagenta2z/bill-agent",
+    "name": "A2Z Bill Agent & Payment Agent",
+    "description": "Smart Bill Agent Tracks daily transaction bills, generates beautiful summary reports, analyzes spending, save money, in-agent workflow payment control",
+    "content": "It works as the wallet in agent Loop, helps people who are interested in keep track their daily expenses, see detailed summary expenses by different categories... It supports various payment options. Key features: Add Bill Record, Update Bill Information, Generate Expense Report, Generate a nice looking Billing Html/CSS Report, Create Order + Various Payment Integration.",
+    "website": "https://www.deepnlp.org/agent/agent-a2z-payment",
+    "field": "Finance",
+    "subfield": "Expense Tracking/Payments",
+    "content_tag_list": "bill-tracking,expense-report,payment-integration,stripe,paypal",
+    "github": "https://github.com/aiagenta2z/agent_a2z_payment",
+    "thumbnail_picture": "-",
+    "upload_image_files": "-",
+    "api": "Stripe, Paypal, AgentA2Z",
+    "sdk": "ChatGPT",
+    "package": "Python, AgentA2Z Payment SDK"
+}
