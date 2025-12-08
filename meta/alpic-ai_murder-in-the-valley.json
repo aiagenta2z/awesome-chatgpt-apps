@@ -10,7 +10,7 @@
     "github": "alpic-ai/murder-in-the-valley",
     "thumbnail_picture": "-",
     "upload_image_files": "-",
-    "api": "-",
+    "api": "murder-in-the-valley.alpic.live/mcp",
     "sdk": "ChatGPT",
     "package": "Typescript, React"
 }
