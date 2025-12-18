@@ -1,16 +1,16 @@
 {
-    "id": "0xkoller/arcade",
+    "user_id": "0xkoller",
     "name": "Arcade",
     "description": "Play DOS games like Doom or Digger in ChatGPT",
     "content": "The problem of no games in ChatGPT while you wait for a deep research to be done. Key features: Play DOOM or Digger.",
-    "website": "arcade-xmcp.alpic.live",
+    "website": "xmcp.dev",
     "field": "Gaming",
     "subfield": "Classic Games",
     "content_tag_list": "dos-games,doom,digger,in-chat-game",
     "github": "-",
     "thumbnail_picture": "-",
     "upload_image_files": "-",
-    "api": "xmcp.dev",
+    "api": "arcade-xmcp.alpic.live",
     "sdk": "ChatGPT",
     "package": "Next.js"
 }

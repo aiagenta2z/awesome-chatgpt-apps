@@ -1,16 +1,16 @@
 {
-    "id": "jjjulllesss/14ers",
+    "user_id": "jjjulllesss",
     "name": "14ers",
     "description": "Essential guide for preparing for the ascent of Colorado’s 14ers, matching mountains and routes to your skill level and weather forecasts.​",
     "content": "Outdoor enthusiasts planning Colorado peak ascents, solving route selection, and weather forecast for safe, personalized hikes. Key features: Explore and filter 14ers mountains and routes. Real-time weather forecasts for optimal ascent days.",
     "website": "14ers.alpic.live",
-    "field": "Travel & Outdoors",
-    "subfield": "Hiking Guide",
+    "field": "CHATGPT APP",
+    "subfield": "Travel",
     "content_tag_list": "colorado,14ers,hiking,weather,route-planning",
     "github": "jjjulllesss/14ers-mcp-openai-apps",
     "thumbnail_picture": "-",
     "upload_image_files": "-",
-    "api": "-",
+    "api": "14ers.alpic.live",
     "sdk": "ChatGPT",
     "package": "Python, React, Supabase"
 }

@@ -1,10 +1,10 @@
 {
-    "id": "aiagenta2z/my-first-ai-coding-agent"
+    "user_id": "aiagenta2z",
     "name": "My First AI Coding Agent",
     "description": "One Line Description of your App/Agent",
     "content": "This AI Agent can do complicated programming work for humans. Key Features: Feature 1, Feature 2, ....",
     "website": "https://www.my_first_agent.com",
-    "field": "AI AGENT (first level category)",
+    "field": "CHATGPT APP",
     "subfield": "Coding Agent (second level category)",
     "content_tag_list": "coding,python",
     "github": "https://github.com/aiagenta2z/my-first-ai-coding-agent",

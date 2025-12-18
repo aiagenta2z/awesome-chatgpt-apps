@@ -1,16 +1,16 @@
 {
-    "id": "bmc/askmymoney",
+    "user_id": "bmc",
     "name": "AskMyMoney",
     "description": "A ChatGPT-native personal finance assistant that connects to your bank via Plaid and lets you manage your money using pure natural language.",
     "content": "People want to understand their finances, but traditional budgeting apps force them into rigid dashboards, categories, and static UI. AskMyMoney flips it: your finances become fully conversational. Everything is answered with live transaction data, inside ChatGPT. Key features: Plaid integration, Financial Q&A, Automatic transaction enrichment, Multi-account support, Personalized summaries.",
     "website": "https://vimeo.com/1137459427?share=copy&fl=sv&fe=ci",
-    "field": "Finance",
-    "subfield": "Personal Finance",
+    "field": "CHATGPT APP",
+    "subfield": "FINANCE",
     "content_tag_list": "personal-finance,plaid,banking,transactions,budgeting,MCP",
     "github": "-",
     "thumbnail_picture": "-",
     "upload_image_files": "-",
-    "api": "Plaid API",
+    "api": "",
     "sdk": "ChatGPT",
     "package": "Node.js (TypeScript), Next.js 15, PostgreSQL"
 }
