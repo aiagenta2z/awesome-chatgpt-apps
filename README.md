@@ -10,21 +10,21 @@ This Repo is A Collection of ChatGPT Apps Developed and Distributed, which is al
 ### Awesome ChatGPT Apps in the Order A-Z
 
 [14ers](https://14ers.alpic.live/): (jjjulllesss/14ers) Essential guide for preparing for the ascent of Colorado’s 14ers, matching mountains and routes to your skill level and weather forecasts.  
-[A2Z Bill Agent & Payment Agent](https://www.deepnlp.org/agent/agent-a2z-payment): (aiagenta2z/bill-agent) Smart Bill Agent Tracks daily transaction bills, generates beautiful summary reports, analyzes spending, save money, in-agent workflow payment control [MCP SERVER](https://agent.deepnlp.org/container/aiagenta2z/a2z_bill_agent/mcp) 
-[Arcade](https://arcade-xmcp.alpic.live/): (0xkoller/arcade) Play DOS games like Doom or Digger in ChatGPT  [MCP SERVER](arcade-xmcp.alpic.live)
+[A2Z Bill Agent & Payment Agent](https://www.deepnlp.org/agent/agent-a2z-payment): (aiagenta2z/bill-agent) Smart Bill Agent Tracks daily transaction bills, generates beautiful summary reports, analyzes spending, save money, in-agent workflow payment control [MCP SERVER](https://agent.deepnlp.org/container/aiagenta2z/a2z_bill_agent/mcp)   
+[Arcade](https://arcade-xmcp.alpic.live/): (0xkoller/arcade) Play DOS games like Doom or Digger in ChatGPT  [MCP SERVER](arcade-xmcp.alpic.live)   
 [AskMyMoney](https://vimeo.com/1137459427?share=copy&fl=sv&fe=ci): (bmc/askmymoney) A ChatGPT-native personal finance assistant that connects to your bank via Plaid and lets you manage your money using pure natural language.  
 [AutoAgent](-): (dustin-wilson/autoagent) A ChatGPT-powered automotive agent that searches real dealership inventory, compares vehicles, and automates lead workflows using MCP + Apps SDK.  
 [Enzo Reader](-): (uncredited/enzo-reader) Brings your existing RSS and similar type feed subscriptions into ChatGPT. Read, triage or chat with the model about the specifics.  
 [Findexar](-): (nicholas-dickey/findexar) Saas-In-A-Bottle for ChatGPT Apps and Agents  
 [Heron Health](-): (lakshya-bakshi/heron-health) Patient Triage for low aquity Dermatology and other medical specialty care  
-[Interactive Piano](https://github.com/harijoe/harijoe-piano-mcp): (harijoe/interactive-piano) Play, record, save, and replay melodies — a full mini-studio inside ChatGPT.  [MCP SERVER](piano.alpic.live)
+[Interactive Piano](https://github.com/harijoe/harijoe-piano-mcp): (harijoe/interactive-piano) Play, record, save, and replay melodies — a full mini-studio inside ChatGPT.  [MCP SERVER](piano.alpic.live)   
 [MarketFlux](http://github.com/udaykakade25/marketflux): (udaykakade25/marketflux) Real-time stock & crypto prices, analysis, news, comparisons, and more.  
-[Memories Video Editor](https://x.com/aimemeditor): (achieving100ms/memories-video-editor) Empowering your favorite ChatGPT to craft family slideshows and tributes Tools for preserving memories.
+[Memories Video Editor](https://x.com/aimemeditor): (achieving100ms/memories-video-editor) Empowering your favorite ChatGPT to craft family slideshows and tributes Tools for preserving memories.  
 [Monito - Money Transfer Comparison](https://www.monito.com): (pascal-monito/monito) Compare dozens of international money transfer providers to find the cheapest option to send money abroad.  
-[Murder In the Valley!](murder-in-the-valley.alpic.live/mcp): (alpic-ai/murder-in-the-valley) Interrogate chatGPT as it impersonates the different suspect in a murder case.  [MCP SERVER](murder-in-the-valley.alpic.live/mcp)
+[Murder In the Valley!](murder-in-the-valley.alpic.live/mcp): (alpic-ai/murder-in-the-valley) Interrogate chatGPT as it impersonates the different suspect in a murder case.  [MCP SERVER](murder-in-the-valley.alpic.live/mcp)   
 [PDF Generator](https://www.strivemath.com/pdf): (Strive_Math/pdf-generator) Instantly converts LaTeX into beautifully rendered PDFs  
 [Sophtron](https://github.com/sophtron/ucw-app): (nanjuan/sophtron) Connect to your financial or utility account directly in ChatGPT and bring in siloed financial data for personalized financial advice.  
-[Study Buddy](study-buddy.alpic.live): (rodriguespn/study-buddy) Your personal language tutor that creates custom flashcards for learning Spanish, French, German, Italian, and Portuguese  [MCP SERVER](study-buddy.alpic.live)
+[Study Buddy](study-buddy.alpic.live): (rodriguespn/study-buddy) Your personal language tutor that creates custom flashcards for learning Spanish, French, German, Italian, and Portuguese  [MCP SERVER](study-buddy.alpic.live)   
 [Texas Duel](-): (zhongxinuk/texas-duel) A ChatGPT-native poker app for real-time play, settlement, and post-hand analysis.  
 [Time’s Up](-): (frederic-barthelet/times-up) Draw a card, give clues, make ChatGPT guess your word  
 [Ultimate Broker Route (UBR)](https://www.dropbox.com/scl/fi/yuonp762qmt4mhtk9q3ql/UBR-2.5weeks.html?rlkey=m4ka0vh5uh4kf5qusmy8eh6sl&e=1&st=3lafupsl&dl=0): (dtorourke01/ultimate-broker-route) A mobile-first lead routing app that tracks door-to-door activity, route metrics, and follow-ups like a game scoreboard.  
@@ -34,10 +34,10 @@ This Repo is A Collection of ChatGPT Apps Developed and Distributed, which is al
 
 **Pull Request**:  
 
-`README.md`: Please help list your app in order of A2Z order in the README.md file and follow format `[icon][app name](link): ({owner}/{app})  {A line description} `
+`README.md`: Please help list your app in order of A2Z order in the README.md file and follow format `[icon][app name](website_link): ({owner}/{app}) {A line description} [Link1]()[Link2]()...`
 
-`App Agent Meta Registry`: You can submit by pull request to the [./meta](https://github.com/aiagenta2z/awesome-chatgpt-apps/tree/main/meta) file folder, if there are still duplicates, just add {owner}_{appname}_{index}.json, but you still can distinguish in your "id" field. 
-Alternatively, you can also use `agtm` tool to register your App/Agent like `agtm upload --config ./your_app_agent_meta.json`, see [Doc for Agtm](https://github.com/aiagenta2z/agtm). And we will sync the meta to the repo for you.
+`AI App Agent Meta Registry`: You can submit by pull request to the [./meta](https://github.com/aiagenta2z/awesome-chatgpt-apps/tree/main/meta) file folder, if there are still duplicates, just add {owner}_{appname}_{index}.json, but you still can distinguish in your "id" field. 
+Alternatively, you can also use `agtm` tool to register your App/Agent like `agtm upload --config ./your_app_agent_meta.json` as in the registry folder [./registry](https://github.com/aiagenta2z/awesome-chatgpt-apps/tree/main/registry), see [Doc for Agtm](https://github.com/aiagenta2z/agtm). And we will sync the meta to the repo for you.
 
 **Registry Website & Tools** 
 
