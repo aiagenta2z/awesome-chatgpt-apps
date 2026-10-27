@@ -51,3 +51,5 @@ Alternatively, you can also use `agtm` tool to register your App/Agent like `agt
 [AI Agent App Registry Submission Web](https://www.deepnlp.org/workspace/my_ai_services)  
 [AI Agent Marketplace](https://github.com/aiagenta2z/ai-agent-marketplace)  
 
+
+[Pineprompt](https://pineprompt.com): (height-labs-eric/pineprompt) Ask ChatGPT about your brand's visibility in AI answers using Pineprompt tracking data: share of voice, competitors, cited sources, and individual responses. [MCP SERVER](https://pineprompt.com/mcp)
