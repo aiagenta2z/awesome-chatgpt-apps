@@ -1,0 +1,16 @@
+{
+    "user_id":"scento",
+    "name": "Scento Perfume Compendium",
+    "description": "Free perfume knowledge app: 1,600+ designer and niche perfumes, 400+ raw materials and Scento's fragrance families, every answer linked to a page on scento.com.",
+    "content": "Scento Perfume Compendium answers fragrance questions inside ChatGPT. Look up a perfume, a house, a note or an ingredient, compare perfumes, find similar scents and browse by fragrance family or occasion. No account or API key. Developer docs: https://www.scento.com/developers",
+    "website": "https://www.scento.com/developers",
+    "field": "CHATGPT APP",
+    "subfield": "Shopping",
+    "content_tag_list": "perfume,fragrance,notes,mcp,scento",
+    "github": "-",
+    "thumbnail_picture": "https://www.scento.com/favicon.ico",
+    "upload_image_files": "-",
+    "api": "https://www.scento.com/mcp",
+    "sdk": "ChatGPT",
+    "package": "Remote MCP server"
+}
