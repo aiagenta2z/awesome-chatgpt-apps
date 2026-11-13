@@ -18,6 +18,7 @@ This Repo is A Collection of ChatGPT Apps Developed and Distributed, which is al
 [Findexar](-): (nicholas-dickey/findexar) Saas-In-A-Bottle for ChatGPT Apps and Agents  
 [Heron Health](-): (lakshya-bakshi/heron-health) Patient Triage for low aquity Dermatology and other medical specialty care  
 [Interactive Piano](https://github.com/harijoe/harijoe-piano-mcp): (harijoe/interactive-piano) Play, record, save, and replay melodies — a full mini-studio inside ChatGPT.  [MCP SERVER](piano.alpic.live)   
+[Magic Hour AI](https://chatgpt.com/plugins/plugin_asdk_app_6abd6b5b6494819188475d7f1ff8204c): (magichourhq/magic-hour-mcp) Create and edit images and videos in ChatGPT. [Setup guide](https://magichour.ai/mcp)\
 [MarketFlux](http://github.com/udaykakade25/marketflux): (udaykakade25/marketflux) Real-time stock & crypto prices, analysis, news, comparisons, and more.  
 [Memories Video Editor](https://x.com/aimemeditor): (achieving100ms/memories-video-editor) Empowering your favorite ChatGPT to craft family slideshows and tributes Tools for preserving memories.  
 [Monito - Money Transfer Comparison](https://www.monito.com): (pascal-monito/monito) Compare dozens of international money transfer providers to find the cheapest option to send money abroad.  
